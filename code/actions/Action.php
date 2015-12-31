@@ -1,9 +1,9 @@
 <?php
 
-abstract class Action{
-	
-	abstract function perform();
+abstract class Action
+{
+    
+    abstract public function perform();
 
-	abstract function isForItems();
-
+    abstract public function isForItems();
 }

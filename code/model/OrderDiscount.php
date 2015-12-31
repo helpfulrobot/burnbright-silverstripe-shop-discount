@@ -8,7 +8,6 @@
  *
  * @package shop-discounts
  */
-class OrderDiscount extends Discount{
-	
-
+class OrderDiscount extends Discount
+{
 }
